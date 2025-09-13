@@ -2,7 +2,6 @@
 
 Currently majoring in Information Security at Seoul Women's Univ.
 
----
 
 ## TL;DR 
 
@@ -11,7 +10,6 @@ Currently majoring in Information Security at Seoul Women's Univ.
 - Interested in AI(LLM)-based security automation and vulnerability detection
 - malware sample static/dinamic analysis
 
----
 
 ## Interest && Learning : 
 
@@ -20,7 +18,6 @@ Currently majoring in Information Security at Seoul Women's Univ.
 - Malware Analysis 10
 - AI applications (LLM) 15
 
----
 
 ## 🛠️ Lang & Tools
 
@@ -52,9 +49,11 @@ Currently majoring in Information Security at Seoul Women's Univ.
 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=discord&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
 
----
 
-**Contact & More**  
-- GitHub: [github.com/rlozll](https://github.com/rlozll)
-- Tistory: (https://rlozll.tistory.com/)
-- X: (https://x.com/rlozll148).
+## Contact & More  
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rlozll)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://rlozll.tistory.com/)
+[![X](https://img.shields.io/badge/X(Formerly%20Twitter)-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/rlozll148)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ham60108@gmail.com)
+[![GitBlog](https://img.shields.io/badge/GitBlog-222222?style=flat-square&logo=githubpages&logoColor=white)](https://rlozll.github.io/)
