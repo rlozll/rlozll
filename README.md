@@ -41,12 +41,14 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-- **DevOps & 기타**
+### DevOps & 기타
+
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-- **Productivity & Communication**
+### Productivity & Communication
+
 ![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat&logo=notion&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=markdown&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=flat&logo=slack&logoColor=white)
