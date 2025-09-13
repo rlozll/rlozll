@@ -28,8 +28,10 @@
 ## 🛠️ 사용 가능한 언어 및 도구
 
 - **Web & Frontend**
-  - HTML, CSS, SCSS, JavaScript
-  - 웹사이트 및 블로그 개발, UI/UX 개선
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 - **Backend & Scripting**
   - Python
