@@ -1,4 +1,4 @@
-# 👋 Hi, I'm rlozll!
+# 🌿 Hi, I'm rlozll!
 
 Currently majoring in Information Security at Seoul Women's Univ.
 
@@ -16,9 +16,9 @@ Currently majoring in Information Security at Seoul Women's Univ.
 ## Interest && Learning : 
 
 - DFIR 15
-- IoT/Embedded Security 50
-- Malware Analysis 15
-- AI applications (LLM) 20
+- IoT/Embedded Security(ex, Automotive) 60
+- Malware Analysis 10
+- AI applications (LLM) 15
 
 ---
 
