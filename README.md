@@ -45,9 +45,9 @@ Currently majoring in Information Security at Seoul Women's Univ.
 ### Reverse Engineering & Security
 
 ![Ghidra](https://img.shields.io/badge/Ghidra-FC0109?style=flat-square&logo=ghidra&logoColor=white)
-![IDA Pro](https://img.shields.io/badge/IDA%20Pro-263238?style=flat-square&logo=hex-ray&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-222222?style=flat-square&logo=hex-rays&logoColor=white)
 ![pwndbg](https://img.shields.io/badge/pwndbg-6E41D3?style=flat-square&logo=gnu-bash&logoColor=white)
-![volatility](https://img.shields.io/badge/volatility-FFCC00?style=flat-square&logo=python&logoColor=white)
+![volatility](https://img.shields.io/badge/Volatility-326DE6?style=flat-square&logo=python&logoColor=white)
 
 ### DevOps & Others
 
