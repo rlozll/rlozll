@@ -31,7 +31,6 @@ Currently majoring in Information Security at Seoul Women's Univ.
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-525252?style=flat-square&logo=none&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -47,6 +46,7 @@ Currently majoring in Information Security at Seoul Women's Univ.
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=markdown&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=flat&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=discord&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
 
 
