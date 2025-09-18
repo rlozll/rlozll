@@ -53,6 +53,5 @@ Currently majoring in Information Security at Seoul Women's Univ.
 ## Contact & More  
 
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://rlozll.tistory.com/)
-[![X](https://img.shields.io/badge/X(Formerly%20Twitter)-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/rlozll148)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ham60108@gmail.com)
 [![GitBlog](https://img.shields.io/badge/GitBlog-222222?style=flat-square&logo=githubpages&logoColor=white)](https://rlozll.github.io/)
