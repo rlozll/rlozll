@@ -13,10 +13,10 @@ Currently majoring in Information Security at Seoul Women's Univ.
 
 ## Interest && Learning : 
 
-- DFIR 15
-- IoT/Embedded Security(ex, Automotive) 60
+- DFIR 10
+- Automotive Security (ex, IoT/Embedded Security) 70
 - Malware Analysis 10
-- AI applications (LLM) 15
+- AI applications (LLM) 10
 
 
 ## 🛠️ Lang & Tools
