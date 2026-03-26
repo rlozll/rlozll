@@ -7,6 +7,15 @@
     <img src="https://render.gitanimals.org/lines/rlozll?pet-id=825122284269816331" width="19%" height="100"/>
   </a>
 </div>
-  
-  
-<a href="https://rlozll.github.io/about/">Click here!</a>
+
+<br>
+
+<div align="center">
+  ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://rlozll.github.io/about/">👉Click here!👈</a>
+</div>
